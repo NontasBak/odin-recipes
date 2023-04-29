@@ -1,0 +1,49 @@
+*
+{
+    font-size: 25px;
+}
+
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 234, 234);
+}
+
+.title
+{
+    background-color: lightgreen;
+    text-align: center;
+    color: #021122;
+    font-size: 50px;
+}
+
+.links
+{
+    font-size: 35px;
+    color: red;
+}
+
+.recipe-title
+{
+    text-align: center;
+    color: rgb(1, 31, 100);
+    background-color: #f0c5d7;
+    font-size: 50px;
+}
+
+.sub-title
+{
+    font-size: 35px;
+    color:rgb(104, 54, 36);
+}
+
+.center
+{
+    text-align: center;
+}
+
+ul,
+ol 
+{
+    list-style-position: inside;
+}
